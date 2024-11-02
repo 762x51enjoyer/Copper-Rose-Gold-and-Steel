@@ -1,0 +1,10 @@
+// 1.21.1	2024-11-01T23:30:37.485572596	Tags for minecraft:block mod id copperrosegoldsteel
+eda108e08b3553a93d1663e954f65a429c8a4edc data/copperrosegoldsteel/tags/block/incorrect_for_copper_tool.json
+c6e5a3eb9fb36c8f62e90b3a37a6f31cd2f4fcee data/copperrosegoldsteel/tags/block/incorrect_for_rose_gold_tool.json
+578c756ac1c2fdcb0f8ae15d59d5bd785230c57e data/copperrosegoldsteel/tags/block/incorrect_for_steel_tool.json
+781d959bb6bbea7b36ae6b2d4a71ced43fd662b9 data/copperrosegoldsteel/tags/block/needs_copper_tool.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data/copperrosegoldsteel/tags/block/needs_rose_gold_tool.json
+a249c46329a41538f49a564e1f14338aaf1be5a0 data/copperrosegoldsteel/tags/block/needs_steel_tool.json
+94e6b6dabd4532bf47a2b27a86744d3144e89908 data/minecraft/tags/block/doors.json
+a00b5161db93ed7289f42accfe1dee7a86346382 data/minecraft/tags/block/mineable/pickaxe.json
+a00b5161db93ed7289f42accfe1dee7a86346382 data/minecraft/tags/block/needs_iron_tool.json

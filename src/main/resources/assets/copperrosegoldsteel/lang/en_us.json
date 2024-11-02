@@ -3,6 +3,41 @@
   "item.copperrosegoldsteel.rose_gold_blend": "Rose Gold Blend",
   "item.copperrosegoldsteel.steel_ingot": "Steel Ingot",
   "item.copperrosegoldsteel.steel_alloy": "Steel Alloy",
+
+  "item.copperrosegoldsteel.copper_sword": "Copper Sword",
+  "item.copperrosegoldsteel.copper_pickaxe": "Copper Pickaxe",
+  "item.copperrosegoldsteel.copper_axe": "Copper Axe",
+  "item.copperrosegoldsteel.copper_shovel": "Copper Shovel",
+  "item.copperrosegoldsteel.copper_hoe": "Copper Hoe",
+
+  "item.copperrosegoldsteel.rose_gold_sword": "Rose Gold Sword",
+  "item.copperrosegoldsteel.rose_gold_pickaxe": "Rose Gold Pickaxe",
+  "item.copperrosegoldsteel.rose_gold_axe": "Rose Gold Axe",
+  "item.copperrosegoldsteel.rose_gold_shovel": "Rose Gold Shovel",
+  "item.copperrosegoldsteel.rose_gold_hoe": "Rose Gold Hoe",
+
+  "item.copperrosegoldsteel.steel_sword": "Steel Sword",
+  "item.copperrosegoldsteel.steel_pickaxe": "Steel Pickaxe",
+  "item.copperrosegoldsteel.steel_axe": "Steel Axe",
+  "item.copperrosegoldsteel.steel_shovel": "Steel Shovel",
+  "item.copperrosegoldsteel.steel_hoe": "Steel Hoe",
+
+  "item.copperrosegoldsteel.copper_helmet": "Copper Helmet",
+  "item.copperrosegoldsteel.copper_chestplate": "Copper Chestplate",
+  "item.copperrosegoldsteel.copper_leggings": "Copper Leggings",
+  "item.copperrosegoldsteel.copper_boots": "Copper Boots",
+
+  "item.copperrosegoldsteel.rose_gold_helmet": "Rose Gold Helmet",
+  "item.copperrosegoldsteel.rose_gold_chestplate": "Rose Gold Chestplate",
+  "item.copperrosegoldsteel.rose_gold_leggings": "Rose Gold Leggings",
+  "item.copperrosegoldsteel.rose_gold_boots": "Rose Gold Boots",
+
+  "item.copperrosegoldsteel.steel_helmet": "Steel Helmet",
+  "item.copperrosegoldsteel.steel_chestplate": "Steel Chestplate",
+  "item.copperrosegoldsteel.steel_leggings": "Steel Leggings",
+  "item.copperrosegoldsteel.steel_boots": "Steel Boots",
+
   "block.copperrosegoldsteel.rose_gold_block": "Block of Rose Gold",
-  "block.copperrosegoldsteel.steel_block": "Block of Steel"
+  "block.copperrosegoldsteel.steel_block": "Block of Steel",
+  "block.copperrosegoldsteel.steel_door": "Steel Door"
 }

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "copperrosegoldsteel:rose_gold_ingot"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "RRR",
+    " W ",
+    " W "
+  ],
+  "result": {
+    "count": 1,
+    "id": "copperrosegoldsteel:rose_gold_pickaxe"
+  }
+}
