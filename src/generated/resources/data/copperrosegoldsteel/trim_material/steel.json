@@ -1,0 +1,9 @@
+{
+  "asset_name": "steel",
+  "description": {
+    "color": "#4B4B4B",
+    "translate": "trim_material.copperrosegoldsteel.steel"
+  },
+  "ingredient": "copperrosegoldsteel:steel_ingot",
+  "item_model_index": 0.3
+}

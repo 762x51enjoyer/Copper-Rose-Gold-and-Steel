@@ -39,5 +39,8 @@
 
   "block.copperrosegoldsteel.rose_gold_block": "Block of Rose Gold",
   "block.copperrosegoldsteel.steel_block": "Block of Steel",
-  "block.copperrosegoldsteel.steel_door": "Steel Door"
+  "block.copperrosegoldsteel.steel_door": "Steel Door",
+
+  "trim_material.copperrosegoldsteel.rose_gold": "Rose Gold Material",
+  "trim_material.copperrosegoldsteel.steel": "Steel Material"
 }

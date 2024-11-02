@@ -52,5 +52,8 @@ public class ModItemTagProvider extends ItemTagsProvider {
                 .add(ModItems.STEEL_CHESTPLATE.get())
                 .add(ModItems.STEEL_LEGGINGS.get())
                 .add(ModItems.STEEL_BOOTS.get());
+        this.tag(ItemTags.TRIM_MATERIALS)
+                .add(ModItems.STEEL_INGOT.get())
+                .add(ModItems.ROSE_GOLD_INGOT.get());
     }
 }
